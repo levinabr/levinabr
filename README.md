@@ -36,17 +36,7 @@
 
 ---
 
-## 🚀 Featured Project
 
-### 🔒 Gear Game (Under Development)
-*Currently working on an exciting game project with innovative mechanics. Details will be revealed upon completion!*
-
-- **Engine:** Unity
-- **Language:** C#
-- **Status:** In Development
-- **Focus:** Gameplay mechanics and system architecture
-
----
 
 ## 📊 GitHub Activity
 
